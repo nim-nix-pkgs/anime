@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254333,
-        "narHash": "sha256-xdH0+lGY6fvtd34fwenQT0r/kGKVZQ/PDSupWD+Zf6Q=",
+        "lastModified": 1667322135,
+        "narHash": "sha256-zq5p4gE3UWFnCeuVIK2a6R2C0pN6jBCADbEEx+D+RAg=",
         "owner": "nim-nix-pkgs",
         "repo": "anime",
-        "rev": "7e71e238263e6d817fb91c2631084c8e07a3b2cb",
+        "rev": "6476d9dbc6b4715bd608ee237e6c1623bee282d2",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
