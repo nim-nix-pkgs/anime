@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667334364,
-        "narHash": "sha256-rUt5UR0MZgq+4XoVPyi6yXmPyaxRlr1ADjPunyRUTMA=",
+        "lastModified": 1668748643,
+        "narHash": "sha256-L17MpZv71rhVua+CyS0Jd8eEGXS7TFkjuOsk27NDhXM=",
         "owner": "nim-nix-pkgs",
         "repo": "anime",
-        "rev": "58b36e031b3b300ba177e569bc4fd1d0be9ac703",
+        "rev": "07d35a520d5c0462b2788f99e3f17fd689f73213",
         "type": "github"
       },
       "original": {
